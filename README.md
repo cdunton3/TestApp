@@ -1,3 +1,3 @@
 TestApp
 =======
-read this!
+Created for the testing and familiarity of Git and Github.
